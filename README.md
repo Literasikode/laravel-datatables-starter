@@ -3,5 +3,4 @@ Projek Laravel starter untuk praktik mengkonfigurasi yajra\laravel-datatables.
 
 Link: https://literasikode.com/buku/laravel-datatables
 
-![cover ebook literasikode 003](https://user-images.githubusercontent.com/3477408/122662672-ec193b00-d1be-11eb-83c8-7a57c027e465.jpeg)
-
+![smartmockups_kp7q5fy7-min](https://user-images.githubusercontent.com/3477408/122669883-7aa2b200-d1e9-11eb-8c4f-726db566deae.png)
